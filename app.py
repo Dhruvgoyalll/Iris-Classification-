@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from scikit_learn.datasets import load_iris
+from sklearn.datasets import load_iris
 from scikit_learn.tree import DecisionTreeClassifier
 from scikit_learn.preprocessing import StandardScaler
 
